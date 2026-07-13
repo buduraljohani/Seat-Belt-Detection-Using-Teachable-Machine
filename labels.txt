@@ -1,0 +1,2 @@
+0 Wearing Seat Belt 
+1 Not Wearing Seat Belt  
