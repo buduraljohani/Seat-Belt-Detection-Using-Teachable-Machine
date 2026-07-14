@@ -116,13 +116,6 @@ The objective of this project is to demonstrate how image classification can be 
 
 ---
 
-## Author
-
-Computer Science Student  
-Developed as part of the Artificial Intelligence Training Track.
-
----
-
 ## Screenshots
 
 ### 1. Model Training using Google Teachable Machine
@@ -156,5 +149,12 @@ The trained model was tested using a sample image (`TEST.jpeg`). The prediction 
 5. Load the exported model and labels.
 6. Test the model using an input image.
 7. Display the predicted class and confidence score.
+
+---
+
+## Author
+
+Computer Science Student  
+Developed as part of the Artificial Intelligence Training Track.
 
 ---
