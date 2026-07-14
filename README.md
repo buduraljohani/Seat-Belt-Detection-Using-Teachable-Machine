@@ -120,3 +120,41 @@ The objective of this project is to demonstrate how image classification can be 
 
 Computer Science Student  
 Developed as part of the Artificial Intelligence Training Track.
+
+---
+
+## Screenshots
+
+### 1. Model Training using Google Teachable Machine
+
+After uploading the training images for both classes, the model was trained using Google Teachable Machine.
+
+> Add your training screenshot here.
+
+Example:
+
+![Model Training](TEST.jpeg)
+
+---
+
+### 2. Prediction Result
+
+The trained model was tested using a sample image (`TEST.jpeg`). The prediction and confidence score are shown below.
+
+![Prediction Result](Screenshot.png)
+
+---
+
+## Project Workflow
+
+1. Collect images for two classes:
+   - Wearing Seat Belt
+   - Not Wearing Seat Belt
+2. Train the model using Google Teachable Machine.
+3. Export the model in TensorFlow/Keras format.
+4. Open the notebook in Google Colab or Jupyter Notebook.
+5. Load the exported model and labels.
+6. Test the model using an input image.
+7. Display the predicted class and confidence score.
+
+---
